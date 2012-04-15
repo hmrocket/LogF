@@ -1,0 +1,4 @@
+Au lancement de l'application : une vue avec un unique bouton Facebook 
+Connect et qui permet de s'authentifier avec son compte Facebook. 
+Une fois connecté à Facebook, basculer vers une vue qui liste nos amis 
+(photo, prénom, nom). 
